@@ -1,10 +1,10 @@
-# Web Automastion - Automate Browsing, Scraping, Testing and using the Web 
+# Web Automation - Automate Browsing, Scraping, Testing and using the Web 
 
 ![solution code Logo](code.png)
 
 ## Description
 
-Web Automastion - Automate Browsing, Web Scraping, Testing and using the Web  
+Web Automation - Automate Browsing, Web Scraping, Testing and using the Web  
 
 ![Developer Logo](developer.png)
 
@@ -18,7 +18,7 @@ Web Automastion - Automate Browsing, Web Scraping, Testing and using the Web
 
 ## Getting Started
 
-To get started with the **File Removal** project, follow these steps:
+To get started with the **Web Automation** project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
