@@ -1,0 +1,10 @@
+2024-02-16 16:07:02,762 - INFO - START web_automation =============================================
+2024-02-16 16:07:02,762 - INFO - START web_automation Start Time = 2024-02-16 16:07:02
+2024-02-16 16:07:02,762 - INFO - web_automation Step 0 - Initialize the configuration file parser
+2024-02-16 16:07:02,878 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-02-16 16:07:02,878 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-02-16 16:07:57,834 - INFO - PERFORMANCE web_automation The total process duration was:55.07
+2024-02-16 16:07:57,834 - INFO - PERFORMANCE web_automation Stop Time = 2024-02-16 16:07:57
+2024-02-16 16:07:57,835 - INFO - PERFORMANCE web_automation Low process duration less than 3 minutes:55.07
+2024-02-16 16:07:57,835 - INFO - PERFORMANCE web_automation Performance optimization is optional
+2024-02-16 16:07:57,835 - INFO - END web_automation =============================================

@@ -1,0 +1,53 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-02-16 11:37:25,086 - INFO - START web_automation =============================================
+2024-02-16 11:37:25,086 - INFO - START web_automation Start Time = 2024-02-16 11:37:25
+2024-02-16 11:37:25,086 - INFO - web_automation Step 0 - Initialize the configuration file parser
+2024-02-16 11:37:40,320 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-02-16 11:37:40,320 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-02-16 13:41:24,341 - INFO - ====== WebDriver manager ======
+2024-02-16 13:41:26,905 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:41:27,095 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:41:27,203 - INFO - There is no [win64] chromedriver "121.0.6167.184" for browser google-chrome "121.0.6167" in cache
+2024-02-16 13:41:27,203 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:41:27,482 - INFO - WebDriver version 121.0.6167.184 selected
+2024-02-16 13:41:27,482 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.184/win32/chromedriver-win32.zip
+2024-02-16 13:41:27,483 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/121.0.6167.184/win32/chromedriver-win32.zip
+2024-02-16 13:41:27,650 - INFO - Driver downloading response is 200
+2024-02-16 13:41:28,873 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:41:29,078 - INFO - Driver has been saved in cache [C:\Users\josep\.wdm\drivers\chromedriver\win64\121.0.6167.184]
+2024-02-16 13:43:24,176 - INFO - ====== WebDriver manager ======
+2024-02-16 13:43:25,278 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:43:25,422 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:43:25,527 - INFO - Driver [C:\Users\josep\.wdm\drivers\chromedriver\win64\121.0.6167.184\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-16 13:44:29,261 - INFO - ====== WebDriver manager ======
+2024-02-16 13:44:30,326 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:44:30,444 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:44:30,576 - INFO - Driver [C:\Users\josep\.wdm\drivers\chromedriver\win64\121.0.6167.184\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-16 13:51:56,245 - INFO - ====== WebDriver manager ======
+2024-02-16 13:51:57,334 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:51:57,467 - INFO - Get LATEST chromedriver version for google-chrome
+2024-02-16 13:51:57,624 - INFO - Driver [C:\Users\josep\.wdm\drivers\chromedriver\win64\121.0.6167.184\chromedriver-win32/chromedriver.exe] found in cache
+2024-02-16 15:39:12,614 - INFO - PERFORMANCE web_automation The total process duration was:14507.53
+2024-02-16 15:39:12,615 - INFO - PERFORMANCE web_automation Stop Time = 2024-02-16 15:39:12
+2024-02-16 15:39:12,615 - INFO - PERFORMANCE web_automation LONG process duration greater than 10 Minutes:14507.53
+2024-02-16 15:39:12,615 - INFO - PERFORMANCE web_automation Performance optimization is required
+2024-02-16 15:39:12,615 - INFO - END web_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-02-16 16:07:02,762 - INFO - START web_automation =============================================
+2024-02-16 16:07:02,762 - INFO - START web_automation Start Time = 2024-02-16 16:07:02
+2024-02-16 16:07:02,762 - INFO - web_automation Step 0 - Initialize the configuration file parser
+2024-02-16 16:07:02,878 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2024-02-16 16:07:02,878 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2024-02-16 16:07:57,834 - INFO - PERFORMANCE web_automation The total process duration was:55.07
+2024-02-16 16:07:57,834 - INFO - PERFORMANCE web_automation Stop Time = 2024-02-16 16:07:57
+2024-02-16 16:07:57,835 - INFO - PERFORMANCE web_automation Low process duration less than 3 minutes:55.07
+2024-02-16 16:07:57,835 - INFO - PERFORMANCE web_automation Performance optimization is optional
+2024-02-16 16:07:57,835 - INFO - END web_automation =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
