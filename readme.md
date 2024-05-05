@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Web Automation - Solution for Web Automation
 Solution for Web Automation
 
@@ -9,8 +11,6 @@ Welcome to the solution **Web Automation** - an example for your projects
 Solution for Web Automation
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
