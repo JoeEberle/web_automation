@@ -48,5 +48,5 @@ To get started with the **Web Automation** solution repository, follow these ste
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>![additional_image](web_automation.png)  <br>![additional_image](web_automation-checkpoint.png)  <br>
+ ![additional_image](web_automation.png)  <br>![additional_image](web_automation-checkpoint.png)  <br>
     
