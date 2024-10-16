@@ -39,11 +39,8 @@ To get started with the **Web Automation** solution repository, follow these ste
  ![additional_image](web_automation.png)  <br>![additional_image](web_automation-checkpoint.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
